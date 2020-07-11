@@ -3,7 +3,7 @@
 Helper scripts for installing and running **USB-enabled DSLR** cameras on Debian
 distros.
 
-#### Manual steps after (if you choose not to use the helper scripts)
+#### Manual steps (if you choose not to use the helper scripts)
 
 1. install dependencies
 ```
