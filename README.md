@@ -69,7 +69,7 @@ If there is a better way around something, or, if I'm just plain wrong about som
 
 #### Promotion
 
-Worth a second look? Let's propagate to fill all the nooks and crannies that people want it to fill!
+Worth a second look? Lets fill all these nooks and crannies together.
 If you are interested in chatting about day-to-day tools like git and vim,
 let's get into it on [ twitter ](https://twitter.com/antiqueeverett) and [ youtube](https://www.youtube.com/channel/UCKkeK-xQiIWc3jzBbUel9ww?view_as=subscriber).
 
